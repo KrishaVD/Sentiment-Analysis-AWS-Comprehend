@@ -14,7 +14,7 @@ The application is a simple web interface that takes a text input from a user. O
 
 **Project Setup**
 
-You can access the complete project on GitHub at `https://github.com/username/repo`. Here are the steps you can follow to set up and run the project locally.
+You can access the complete project on GitHub at `https://github.com/KrishaVD/Sentiment-Analysis-AWS-Comprehend.git`. Here are the steps you can follow to set up and run the project locally.
 
 **Prerequisites**
 
